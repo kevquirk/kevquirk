@@ -12,4 +12,4 @@ I've also written a **very** verbose guide on how to setup a Jekyll site using S
 
 [Nineteen Quirky](https://github.com/kevquirk/nineteen-quirky) is a no-frills WordPress theme that harps back to the good old Geocities days of the 90s. Except it has a modern twist. I used to use this theme on my [personal site](https://kevq.uk) before deciding to migrate from WordPress to Jekyll.
 
-[![Kev's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevquirk)](https://github.com/anuraghazra/github-readme-stats)
+[![Kev's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevquirk)](https://github.com/kevquirk)
