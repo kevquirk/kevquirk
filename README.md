@@ -44,6 +44,6 @@ Here are the latest posts from [my blog](https://kevq.uk/blog):
 
 We all love stats, right? I know I do! Here's some interesting stats that are pulled from my GitHub activity:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevquirk&hide=java,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevquirk)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Kev's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevquirk)](https://github.com/kevquirk)
