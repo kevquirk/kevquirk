@@ -35,11 +35,11 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 Here are the latest posts from [my blog](https://kevq.uk/blog):
 
 <!-- BLOG-POST-LIST:START -->
+- [Wanna Help With The 512KB Club?](https://kevq.uk/notes/wanna-help-with-the-512kb-club/)
 - [The Back-end of Beyond](https://kevq.uk/the-back-end-of-beyond/)
 - [What’s The Difference Between Padding And Margin?](https://kevq.uk/whats-the-difference-between-padding-and-margin/)
 - [Adding Some Whimsy & Character](https://kevq.uk/adding-some-whimsy-character/)
 - [My Thoughts On Richard Stallman’s Return To the FSF Board](https://kevq.uk/my-thoughts-on-richard-stallmans-return-to-the-fsf-board/)
-- [How To Speed Up WordPress](https://kevq.uk/how-to-speed-up-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://kevq.uk/blog)
