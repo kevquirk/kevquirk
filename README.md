@@ -35,11 +35,11 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 Here are the latest posts from [my blog](https://kevq.uk/blog):
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Hate The Tux Linux Mascot](https://kevq.uk/notes/why-i-hate-the-tux-linux-mascot/)
 - [Is Windows Unstable? Here Are My Thoughts](https://kevq.uk/is-windows-unstable-here-are-my-thoughts/)
 - [Wanna Help With The 512KB Club?](https://kevq.uk/notes/wanna-help-with-the-512kb-club/)
 - [The Back-end of Beyond](https://kevq.uk/the-back-end-of-beyond/)
 - [What’s The Difference Between Padding And Margin?](https://kevq.uk/whats-the-difference-between-padding-and-margin/)
-- [Adding Some Whimsy & Character](https://kevq.uk/adding-some-whimsy-character/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://kevq.uk/blog)
