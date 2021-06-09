@@ -35,11 +35,11 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 Here are the latest posts from [my blog](https://kevq.uk/blog):
 
 <!-- BLOG-POST-LIST:START -->
+- [[Response] Why Do People Use Medium Blogs?](https://kevq.uk/notes/response-why-do-people-use-medium-blogs/)
 - [Are WordPress Plugin Acquisitions Too Much?](https://kevq.uk/notes/are-wordpress-plugin-acquisitions-too-much/)
 - [Chrome’s Follow Button](https://kevq.uk/notes/chromes-follow-button/)
 - [Why I Hate The Tux Linux Mascot](https://kevq.uk/notes/why-i-hate-the-tux-linux-mascot/)
 - [Is Windows Unstable? Here Are My Thoughts](https://kevq.uk/is-windows-unstable-here-are-my-thoughts/)
-- [Wanna Help With The 512KB Club?](https://kevq.uk/notes/wanna-help-with-the-512kb-club/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://kevq.uk/blog)
