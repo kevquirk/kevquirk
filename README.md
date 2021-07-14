@@ -35,11 +35,11 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 Here are the latest posts from [my blog](https://kevq.uk/blog):
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Restore The Default PiHole Block List](https://kevq.uk/how-to-restore-the-default-pihole-block-list/)
 - [The New Mycroft Mark II](https://kevq.uk/notes/the-new-mycroft-mark-ii/)
 - [A Sombre Goodbye To Linux](https://kevq.uk/a-sombre-goodbye-to-linux/)
 - [Online Conversations & Website Engagement](https://kevq.uk/online-conversations-website-engagement/)
 - [Chasing Visitors – The Web Analytics Rabbit Hole](https://kevq.uk/chasing-visitors-the-web-analytics-rabbit-hole/)
-- [Building A Self-Hosted Journal](https://kevq.uk/building-a-self-hosted-journal/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://kevq.uk/blog)
